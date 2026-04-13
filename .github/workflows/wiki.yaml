@@ -1,0 +1,46 @@
+name: Repo <-> Wiki
+
+on:
+  push:
+    branches:
+      # Name a branch "wiki-preview" if you want commits to the branch to apply to the wiki
+      # immediately. Helpful if you want to make multiple updates, preview them, merge commits, etc.
+      # before finally merging to master.
+      - wiki-preview
+      # With the above exception, doc updates will only by synced to the wiki when merged to the
+      # default branch.  Change this to your default branch name, e.g. "main" or "master"
+      - main
+    paths:
+      - "wiki/**"
+      - ".github/workflows/wiki.yaml"
+  # gollum is the wiki add/update event and this only triggers for the default branch.  I.e. if
+  # an update is made to the wiki, only the master branch will be updated.
+  gollum:
+
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+
+jobs:
+  sync-docs:
+    if: github.event_name != 'gollum' || !contains(github.event.pages[0].summary, 'wiki sync bot:')
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: GitHub Wiki Sync
+        uses: level12/gh-action-wiki-sync@main
+        with:
+          docs_path: wiki
+          github_token: ${{ github.token }}
+
+  sync-docs-ok:
+    runs-on: ubuntu-24.04
+    steps:
+      # We need at least one passing job or the badge will show failed when the above job is
+      # skipped, which happens after every succesful docs build when the wiki is updated.
+      - name: Wiki Sync Ok
+        run: echo "docs sync ok"
