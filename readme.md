@@ -1,42 +1,46 @@
 # Level 12 Careers (Public)
 
-Use this repo to:
+> [!NOTE]
+> As of 4/13/26, this repo is a [work in progress](https://github.com/level12/careers/discussions/1).
 
-- Watch this repo to get status updates which we will post as
-  [Announcements](https://github.com/level12/careers/discussions/categories/announcements).
-- Ask questions regarding our open positions, hiring process, working at Level 12, or similar
+This repo exists to increase visibility & communication regarding Level 12's open positions,
+workplace/culture, and hiring process.
 
-Our intention is to respond timely to any questions posted here.
+You will find:
+
+- Documentation for candidates regarding our positions and processes
+- Issues: which you are welcome to open to help us fix or improve our docs / processes
+- Discussions
+    - Regarding our open positions, hiring process, working at Level 12, or similar
+    - Requests for comment: sometimes we can see problems in our process but don't know the best
+      fix.  Makes it easier for us to seek input.
+
+TBH, this repo is a bit of an experiment.  There are (good?) reasons why companies don't generally
+make career/hiring info so public and collaborative. Let's give it a try anyway and see how it goes.
+:)
 
 
-## Watch Limitations
+## Participation Guidelines
 
-Due to the limitations involved in GitHub watch notifications, users can't subscribe to only Announcement discussions.
+We have these guidlines regarding participation:
 
-If you want notifications from us but not for all discussions posted, use the Google Group instead
-(see below).
-
-
-## Participation Requirements
-
-We take some risk being open like this around hiring.  There is a reason why most companies don't
-do it and it has to do with the headaches and time investment mostly caused by bad actors.
-
-Therefore, we have these requirements regarding participation:
-
-- Professional: interact with us here like you would if we hired you
+- Professional: interact with us here like you would if we were a client or employer.  Hopefully,
+  that's something like considerate and respectful (and we'll do the same).
 - No application status questions: if you've applied, use the direct channels we've setup as part of
   our application process to interact with us.  **Don't ask for application status updates here.**
 - No automation or LLMs here.  You'll get humans on our side that's what we expect on your side.
 - No trolling or un-constructive criticism:
-    - Acceptable: "I think this section on your jobs description is a bit confusing.  Can you clarify..."
-    - Unacceptable: "You suck because...Can't believe you didn't respond to me...etc."
+    - Acceptable: "I think this section on your jobs description is a bit confusing.  Can you
+      clarify..."
+    - Unacceptable: "You suck because...I can't believe you didn't respond to me...etc."
 
-We aren't going to expend a lot of energy moderating.  If you violate our terms, we may delete your
-content rather than respond.  If it's a flagrant violation, we will probably ban you.
+I hope the combination of low volume and good actors means we don't really need to "moderate" this
+repo.  Please don't be the person who proves us wrong.  :)
 
 
-## Other Contact Options
+## Other Notification Options
+
+If you just want major notifications
 
 - https://groups.google.com/g/level12-hiring: announce only
   - If you are signed into multiple google accounts, select the appropriate account before subscribing
