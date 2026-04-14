@@ -38,7 +38,7 @@ Zoom and Slack:
 
 1. Evaluate resume and initial email correspondence
 1. Technical skills questionnaire
-1. Technical Interview (1 hour)
+1. [Technical Interview] (1 hour)
 1. Skills tests - phase I: three real-world programming challenges, no trick
    questions here (paid)
 1. Skills tests - phase II: project-based skills test: we give you a small
@@ -55,3 +55,4 @@ Zoom and Slack:
      the work and assist you as needed.
 
 [in flux]: https://github.com/level12/careers/discussions/2
+[Technical Interview]: Technical-Interview
