@@ -1,8 +1,8 @@
 # Level 12 Careers (Public)
 
-> [!NOTE] As of 4/13/26, this repo is a [work in
-> progress](https://github.com/level12/careers/discussions/1) and is missing content mentioned just
-> below.
+> [!NOTE]
+> As of 4/13/26, this repo is a [work in progress](https://github.com/level12/careers/discussions/1)
+> and is missing content mentioned just below.
 
 This repo exists to increase visibility and communication regarding Level 12's open positions,
 workplace, culture, and hiring process.
