@@ -108,3 +108,21 @@ skills assessment:
   overly concerned with how we are evaluating you or feel like you need to
   explain what you are doing. We’ll ask you when we are done what you thought
   went well, what didn’t, and why, so you’ll have a chance to explain.
+
+## Candidate Checklist
+
+- [ ] Install Zoom
+- [ ] Do a Zoom test call to verify audio, video, and screen sharing
+- [ ] Be ready to share your entire screen
+- [ ] Plan to work on one monitor only
+- [ ] Close or minimize all apps except what you need for the interview
+- [ ] Turn off notifications and hide anything private or confidential
+- [ ] Know how to increase editor and terminal font size
+- [ ] Set up web search so you can search without AI summaries
+- [ ] Disable or hide AI features in your editor, or use a basic editor
+- [ ] Be ready to do simple live coding in Python
+- [ ] Be ready to use docs/search for syntax and library details, not full
+      solutions
+- [ ] Prepare a short summary of your current employment or recent work
+- [ ] Prepare questions for Level 12 and send them ahead of time if important
+- [ ] Be aware the meeting will be recorded and transcribed
