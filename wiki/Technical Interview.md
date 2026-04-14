@@ -69,6 +69,15 @@ opinion, from easiest to hardest:
 - Google's summaries are not easy to disable, but it's possible. We leave that
   as an exercise for the reader. :)
 
+### AI Editor Integrations
+
+Ensure you can turn off or hide AI integrations in the code editor you will use
+for the coding demos.
+
+None of the demos are complex enough to need full IDE support. Using a basic
+editor with syntax highlighting will be sufficient if you don't want to tweak
+settings on your primary editor to remove/hide AI features.
+
 ## Dev Skills Instructions
 
 These are the instructions we'll give, almost verbatim, prior to starting the
