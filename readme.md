@@ -1,3 +1,6 @@
+[![Repo <-> Wiki](https://github.com/level12/careers/actions/workflows/wiki.yaml/badge.svg)](https://github.com/level12/careers/actions/workflows/wiki.yaml)
+
+
 # Level 12 Careers (Public)
 
 > [!NOTE]
