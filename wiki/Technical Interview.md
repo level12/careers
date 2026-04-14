@@ -1,6 +1,6 @@
 The Technical Interview is the first interview in [our application process].
 
-[our process]: wiki/Process-Overview
+[our application process]: wiki/Process-Overview
 
 ## Format
 
