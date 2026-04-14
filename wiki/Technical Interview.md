@@ -34,7 +34,8 @@ moving.
 
 - Have Zoom installed. Considering doing a test meeting with someone ahead of
   time to make sure your setup works.
-- We will be recording and transcribing the meeting
+- We will be recording and transcribing the meeting to provide context to other
+  L12 team members involved in the hiring & evaluation process.
 - Be prepared to share your screen with Zoom and do all your work on one
   monitor/screen.
   - Don't have any windows/tools/apps open (minimized to tray is fine) besides
@@ -43,6 +44,7 @@ moving.
   - Close any applications (email, Zoom) that might pop up messages that are
     private or confidential, or otherwise suppress notifications during the
     interview.
+- Know how to increase your font size in your editor and terminal.
 - Try to relax. :)
   - This is an imperfect system and not how we'd normally work. We take that
     into consideration.
