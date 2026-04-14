@@ -23,17 +23,17 @@ The interview usually goes something like this:
 - Your questions (5-10 mins)
 - Parting thoughts (5-10 mins)
 
-Due to the number of things we need to cover in a relatively short time, we'll
-conduct the meeting posthaste.
+Because we have a fair amount to cover in a short time, we'll keep things
+moving.
 
 ## Preparation / Notices
 
 > [!WARNING]
 > Not being prepared can easily chew up 10+ mins, which is **A LOT** in a 60m
-> meeting. We are grading how well you prepared. Plan accordingly.
+> meeting. Preparation is part of the interview, so please plan accordingly.
 
-- Have Zoom installed, do a test meeting with someone ahead of time to make sure
-  it all works.
+- Have Zoom installed. Considering doing a test meeting with someone ahead of
+  time to make sure your setup works.
 - We will be recording and transcribing the meeting
 - Be prepared to share your screen with Zoom and do all your work on one
   monitor/screen.
@@ -65,7 +65,7 @@ opinion, from easiest to hardest:
 - Use DuckDuckGo and set their "Search Assist" to "On Demand"
 - Use Kagi; by default, their AI summaries are by request
 - Google's summaries are not easy to disable, but it's possible. We leave that
-  as an exercise for the reader.
+  as an exercise for the reader. :)
 
 ## Dev Skills Instructions
 
@@ -76,19 +76,18 @@ skills assessment:
   Suppress OS notifications if desired.
 - Please work on one monitor and share your entire screen.
 - You are welcome to use internet searches and documentation but no AI / LLMs
-  - Your searches should be limited to component parts of the solution, not the
-    entire solution as a whole
+  - Use search for language, library, and syntax details—not to look up a full
+    solution to the exercise.
   - E.g. "python list comprehension examples" is ok; "python list comprehension
     to flatten a list of lists" is not
-- If you need docs, don't hesitate to use them. It won't count against you. Not
-  using them when it's clear you could have benefited WILL be counted against
-  you. :)
+- If you need docs, don't hesitate to use them. It won't count against you. If
+  docs would clearly help and you avoid them anyway, that can work against you.
 - These exercises are deliberately short. Most of the time, it only takes 5-10
   minutes.
   - If you hit 10 minutes on any of them or really seem to be struggling, in the
     interest of time, we'll have you move on.
 - We realize coding like this isn't natural. Try to relax. Do what you would
-  normally do and try not to second guess yourself because we are observing.
+  normally do and try not to second guess yourself.
 - Our goal is code that works eventually; it doesn't have to be perfect the
   first time around. We expect to see some errors and troubleshooting in the
   process, just like if we were coding them.
