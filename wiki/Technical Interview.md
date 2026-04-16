@@ -123,6 +123,4 @@ skills assessment:
 - [ ] Be ready to do simple live coding in Python
 - [ ] Be ready to use docs/search for syntax and library details, not full
       solutions
-- [ ] Prepare a short summary of your current employment or recent work
-- [ ] Prepare questions for Level 12 and send them ahead of time if important
 - [ ] Be aware the meeting will be recorded and transcribed
