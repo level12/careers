@@ -4,7 +4,7 @@
   },
   "toml": {
   },
-  "lineWidth": 80,
+  "lineWidth": 90,
   "excludes": [],
   "plugins": [
     "https://plugins.dprint.dev/markdown-0.21.1.wasm",
