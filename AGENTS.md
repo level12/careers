@@ -6,12 +6,15 @@
 
 # Proofreading
 
-When asked to proofread, you should:
+If asked to proofread, you should:
 
 - apply minor wording/grammar/spelling fixes directly
 - pause and ask you before making more substantial changes
 
-# Tone
+# Tone for Instructional Documents
+
+Some of our content will be instructions for skills tests candidates. When content is
+intended to be read by a candidate or other 3rd party, use this tone:
 
 - Aim for **professional, direct, and human**.
 - Prefer plainspoken language over polished corporate or PR-style wording.
