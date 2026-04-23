@@ -9,7 +9,8 @@ These are the general instructions for the first Skills Test in [our application
 - We will schedule the test through Breezy.
 - You will receive a Slack invite the evening before or the day of the test.
 - At the start of the test, you will receive an invite to an empty GitHub repo.
-- You will receive the product request for the prototype as a GitHub issue in that repo.
+- You will receive the product request for a web app prototype as a GitHub issue in that
+  repo.
 
 ## Confidentiality
 
