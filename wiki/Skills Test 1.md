@@ -9,8 +9,7 @@ These are the general instructions for the first Skills Test in [our application
 - We will schedule the test through Breezy.
 - You will receive a Slack invite the evening before or the day of the test.
 - At the start of the test, you will receive an invite to an empty GitHub repo.
-- You will receive the product request for a web app prototype as a GitHub issue in that
-  repo.
+- You will receive a request for a web app prototype as a GitHub issue in that repo.
 
 ## Confidentiality
 
@@ -110,28 +109,29 @@ Choose your AI assistance method before you start. The time limit depends on tha
 
 Working time is the time limit for doing the project itself. The total time adds about 30
 minutes up front for instructions/discussion and about 30 minutes at the end for PR
-submission and `feedback.md`. Total time is also the maximum we will pay for the test.
+submission and feedback.
+
+The total time is also the maximum hours we will pay for the test.
 
 Remember:
 
 - Stay within the time limit for the method you chose.
 - Make sure your final work is committed within that time limit.
-- After that, submit your PR and create `feedback.md`.
+- After that, submit your PR and update `notes.md`.
 
 We expect you to start promptly after receiving the test and work through it to
 completion, with only a short break midway through if needed. After you submit your PR,
-you may take a break before writing `feedback.md`. That time does not count against the
+you may take a break before writing `notes.md`. That time does not count against the
 working-time limit.
 
 ## When Finished
 
 After you make your final commit within the time limit:
 
-- submit your PR
-- create a `feedback.md` file in the repo
-- include any feedback that may help our evaluation or improve the test/process
+- Submit your PR
+- Update `notes.md` including any feedback.
 
-Time spent on the PR and `feedback.md` does not count against the test time limit.
+Time spent on the PR and final `notes.md` does not count against the test time limit.
 
 ## AI Assistance Method
 
